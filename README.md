@@ -4,7 +4,7 @@ This is a simple expense tracker app with 3 basics functionalities:
 
 You must first run the file named "expenses.py", in order to create the DataBase
 
-The image below is the mains screen\
+The image below is the main screen
 ![image](https://user-images.githubusercontent.com/69828127/170800592-ef5163b7-0394-4f9f-92cf-e80b220aecc8.png)
 
 
