@@ -14,7 +14,7 @@ The functionality "New Expense" enables you to add a new expense to the DataBase
 ![image](https://user-images.githubusercontent.com/69828127/170800651-bb757649-a42a-4790-967e-f2a464343241.png)
 
 You must add the expense name, price, date(DD/MM/AAAA) and a short description, after clicking the button "Add expense"
-you will get a confirmation, as showing below:
+you will get the confirmation, as showing below:
 
 ![image](https://user-images.githubusercontent.com/69828127/170800844-23a9a77b-897a-44c4-97ef-b4736922b718.png)
 
@@ -24,6 +24,6 @@ The "Delete Expense" button enables you to delete an expense based on its ID
 
 ![image](https://user-images.githubusercontent.com/69828127/170801051-849de236-b770-4b7d-8712-2ce133f8cced.png)
 
-After inserting the ID and clicking "Delete expense" you will get a confirmation
+After inserting the ID and clicking "Delete expense" you will get the confirmation
 
 ![image](https://user-images.githubusercontent.com/69828127/170801180-ca87c507-279e-4b4e-b29f-1fcba10358cb.png)
