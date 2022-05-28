@@ -24,6 +24,6 @@ The "Delete Expense" button enables you to delete an expense based on its ID
 
 ![image](https://user-images.githubusercontent.com/69828127/170801051-849de236-b770-4b7d-8712-2ce133f8cced.png)
 
-After inserting the ID and cliking "Delete expense" you will get a confirmation
+After inserting the ID and clicking "Delete expense" you will get a confirmation
 
 ![image](https://user-images.githubusercontent.com/69828127/170801180-ca87c507-279e-4b4e-b29f-1fcba10358cb.png)
